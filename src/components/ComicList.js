@@ -27,7 +27,7 @@ const ComicList = () => {
   return (
 
     <div>
-      <span class="Mostrar_Titulo">Pedidos Almacenados!: </span>
+      <span class="Mostrar_Titulo">Comics Almacenados!: </span>
 
       {data && data.flowers.map((top) => {
         return (
